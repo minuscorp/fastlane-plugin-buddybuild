@@ -39,7 +39,7 @@ module Fastlane
         end
   
         def self.description
-          "Retrieves the latest build for a given Application Identifier."
+          "Retrieves the latest build number for a given Application Identifier."
         end
   
         def self.authors

@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'jrevuelta@usal.es'
 
   spec.summary       = 'This plugin allows the communication with the Buddybuild API.'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-buddybuild"
+  spec.homepage      = "https://github.com/minuscorp/fastlane-plugin-buddybuild"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
